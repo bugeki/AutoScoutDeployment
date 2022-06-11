@@ -1,0 +1,2 @@
+﻿sklearn==0.0
+streamlit==1.10.0
