@@ -13,3 +13,4 @@ In this project, Python libraries such as Numpy, Pandas, Matplotlib, Seaborn, Sc
 Lasso regression is used.
 
 The app is deployed through Streamlit
+
